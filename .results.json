@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-04T11:59:35.161Z",
-    "end": "2025-06-04T11:59:36.008Z",
-    "duration": 847
+    "start": "2025-06-16T13:02:12.117Z",
+    "end": "2025-06-16T13:02:14.621Z",
+    "duration": 2504
   },
   "tests": [
     {
@@ -41,14 +41,14 @@
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -90,7 +90,7 @@
     {
       "title": "returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,14 +136,14 @@
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,7 +171,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareTripler() is a function",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -185,7 +185,7 @@
     {
       "title": "returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
